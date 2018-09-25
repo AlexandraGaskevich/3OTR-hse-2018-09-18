@@ -30,6 +30,10 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+  background-image: url(dc-online-media-mockup.jpg);
+  background-size: 800px 20624px;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
 ol, ul {
 	list-style: none;
