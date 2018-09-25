@@ -53,5 +53,6 @@ h1 {
 }
 p {
   font-size:18px;
-  color: yellow;
+  color: red;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
